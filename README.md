@@ -5,7 +5,7 @@ This project demonstrates load testing of a REST API using k6, a modern load tes
 ## Prerequisites
 
 - Node.js (for running the API)
-- [k6](https://k6.io/docs/getting-started/installation/) installed on your machine
+- [k6](https://grafana.com/docs/k6/latest/set-up/install-k6/) installed on your machine
 
 ## Setup
 
