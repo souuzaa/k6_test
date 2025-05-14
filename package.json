@@ -1,0 +1,25 @@
+{
+  "name": "k6_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "k6 run tests/api.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souuzaa/k6_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souuzaa/k6_test/issues"
+  },
+  "homepage": "https://github.com/souuzaa/k6_test#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
